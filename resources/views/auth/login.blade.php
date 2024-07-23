@@ -9,7 +9,7 @@
                 <div class="text-center">
                     <h2>SISTEM INFORMASI</h2> <h2>PERPUSTAKAAN</h2>
                     <!-- ganti gambar disini -->
-                    <img src="{{ URL::asset('image/poliban.png') }}" alt="images"  class="img-fluid w-25 mb-3">
+                    <img src="{{ URL::asset('image/ghaidacantik.png') }}" alt="images"  class="img-fluid w-25 mb-3">
                     <!-- <h4 class="f-w-500 mb-1">Login Peserta</h4> -->
                  
                 </div>
